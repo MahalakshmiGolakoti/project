@@ -1,0 +1,15 @@
+#body {
+    padding: 250px;
+    background-color: aquamarine;
+    font-family: verdana;
+}
+
+button {
+    width: 180px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid;
+    font-size: 30px;
+    background-color: hotpink;
+    color: white;
+}
