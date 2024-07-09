@@ -1,0 +1,17 @@
+This pages shows the result as :
+    If you click on CLICK ME! without entering the number,it will shows alert as
+      ...........................Please enter a number.....................
+
+----------------------------------------------------------------------------------------------------------------------
+
+    If you enter an even number and click on the button ,it will show you that
+      changing the background color to YELLOW and the button color to BLUE and displays Even Number under the button.
+
+----------------------------------------------------------------------------------------------------------------------
+
+    If you enter an odd number and click on the button ,it will show you that
+      changing the background color to PINK and the button color to PURPLE and displays Odd Number under the button.
+
+    
+
+    
